@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34c9d91a.chunk.css",
+    "main.js": "/static/js/main.48112ae5.chunk.js",
+    "main.js.map": "/static/js/main.48112ae5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.52d2d5d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.52d2d5d2.js.map",
+    "static/js/2.790cbd23.chunk.js": "/static/js/2.790cbd23.chunk.js",
+    "static/js/2.790cbd23.chunk.js.map": "/static/js/2.790cbd23.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a192a38d4936dd765a86c1a015d5ecc4.js": "/precache-manifest.a192a38d4936dd765a86c1a015d5ecc4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.34c9d91a.chunk.css.map": "/static/css/main.34c9d91a.chunk.css.map",
+    "static/js/2.790cbd23.chunk.js.LICENSE.txt": "/static/js/2.790cbd23.chunk.js.LICENSE.txt",
+    "static/media/abode.jpg": "/static/media/abode.0f8d9d40.jpg",
+    "static/media/ceddy_resume.pdf": "/static/media/ceddy_resume.d84d1b83.pdf",
+    "static/media/kayaksWh.jpg": "/static/media/kayaksWh.cf4b70b4.jpg",
+    "static/media/linkedin2.jpg": "/static/media/linkedin2.75a71c3d.jpg",
+    "static/media/match_gamealt2.jpg": "/static/media/match_gamealt2.457bcafd.jpg",
+    "static/media/pets.jpg": "/static/media/pets.24168bfd.jpg",
+    "static/media/simon2.jpg": "/static/media/simon2.95734222.jpg",
+    "static/media/swirl_sm.jpg": "/static/media/swirl_sm.3068fc1a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52d2d5d2.js",
+    "static/js/2.790cbd23.chunk.js",
+    "static/css/main.34c9d91a.chunk.css",
+    "static/js/main.48112ae5.chunk.js"
+  ]
+}
